@@ -41,3 +41,7 @@ A real-time interactive dashboard built in Power BI using Blinkit’s 2024 sales
 ## 📬 Contact
 
 For collaborations or queries, feel free to reach out via [https://www.linkedin.com/in/purnadwivedi111/) 
+
+
+![image](https://github.com/user-attachments/assets/3e5afd0c-251b-456d-a05c-bd2a46bb2111)
+
