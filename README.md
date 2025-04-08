@@ -35,10 +35,10 @@ A real-time interactive dashboard built in Power BI using Blinkit’s 2024 sales
 
 ## 🌐 Live Preview
 
-👉 Coming soon on [My Portfolio Website](https://your-portfolio-link.com)  
+👉 Coming soon on [https://sites.google.com/view/purna-portfolio/home)  
 👉 GitHub Repository: [View Here](https://github.com/your-username/Blinkit-2024-Sales-Dashboard-Power-BI)
 
 ## 📬 Contact
 
-For collaborations or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at yourname@email.com.
+For collaborations or queries, feel free to reach out via [https://www.linkedin.com/in/purnadwivedi111/) or email me at purnadwivedi1@gmail.com.
 
